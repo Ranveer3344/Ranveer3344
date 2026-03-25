@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**Ranveer3344/Ranveer3344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ranveer Singh, a B.Tech CSE (AIML) student at VIT Bhopal University.
 
-Here are some ideas to get you started:
+- 🎓 2nd Year Student (Computer Science & Engineering - AI & ML)
+- 💻 Passionate about Programming, AI/ML, and Problem Solving
+- 🧠 Learning Data Structures, Algorithms, and Machine Learning
+- ⚡ Coding in Java, C++, and Python
+- 📈 Improving through competitive programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+- Languages: Java, C++, Python  
+- Core Concepts: Data Structures, Algorithms, OOP  
+- Tools: Git, GitHub, VS Code  
+
+🌱 Currently Learning
+- Machine Learning & AI  
+- Advanced Data Structures  
+- Competitive Programming  
+- Real-world Projects  
+
+📫 Connect With Me
+- 📧 Email: vanshsingh3344@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/ranveer-singh-90942a327
+
+I enjoy solving complex problems and building intelligent systems 🤖
